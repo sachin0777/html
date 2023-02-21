@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <title>Sachin's Website</title>
+</html>
+<body>
+  <img src="your image location path\your image name.jpg" alt="here what name should be displayed when there is loading of the image" width "320" height="240">
+</body>
+</html>
